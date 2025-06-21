@@ -16,3 +16,6 @@ This task involves analyzing the Boston Housing dataset, which includes features
 
 ## Dataset
 Boston Housing dataset from U.S Census, containing 506 samples with various housing-related features.
+### 📊 Data Analysis & Visualization (Python)
+- Python 3.7 or later
+- Libraries: pandas, matplotlib, numpy
